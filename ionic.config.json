@@ -1,0 +1,7 @@
+{
+  "name": "Dron-Agricola",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
